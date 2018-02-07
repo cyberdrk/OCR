@@ -73,3 +73,4 @@ Most of this has been taken from (_again_) Peter Norvig's spell - checker tutori
 
 _In case you forgot, our test data is big.txt_ 
 
+# Part 2: K Nearest Neighbour using Optical Character Recognition [stay tuned!]
